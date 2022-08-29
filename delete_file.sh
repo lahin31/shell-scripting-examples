@@ -1,6 +1,5 @@
 #!/bin/bash
-
-# Remove a file
+# Removing a file
 
 echo "Enter the name of the file you want to delete"
 read file
